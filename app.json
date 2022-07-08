@@ -31,7 +31,7 @@
             "required": false
         },
         "MONGO_URI": {
-            "description": "A secret String for Mongodb Connection.(Required)"
+            "description": "mongodb+srv://NABworks:A1s2d3f4g5@cluster0.xczq2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "GOOGLE_API_KEY": {
             "description": "Google API key for Google searches for MODS (Not Required)",
